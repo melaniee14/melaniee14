@@ -26,7 +26,7 @@ Hi, I’m Melanie, and I’m currently a second-year Computer Science and Design
 
 ---
 ## 🗒️ Notable Projects
-** NU Canvas** Creating a responsive front-end replica of Northeastern's Canvas website using **HTML, CSS, JavaScript/TypeScript, React/Redux, JSON** and Vercel for deployment
+* ** NU Canvas:** Creating a responsive front-end replica of Northeastern's Canvas website using **HTML, CSS, JavaScript/TypeScript, React/Redux, JSON** and Vercel for deployment
 * **Splunk Spoofing:** Used **HTML, CSS, & JavaScript** to create a front-end replica of Splunk
 * **Calendar Manager Application:** Created a calendar using Object-Oriented Programming, MVC architecture, and the **Swing** library
 
