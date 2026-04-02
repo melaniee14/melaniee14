@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -  pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-Hi, I’m Melanie, and I’m currently a second-year Computer Science and Design major at Northeastern. I have a strong interest in shaping user experience and using my technical skills to further that. I am working on expanding my skills in web and front-end development. I am also particularly interested in UI/UX design. 
+Hi, I’m Melanie, and I’m currently a second-year Computer Science and Design major at Northeastern. I have a strong interest in shaping user experience and using my technical skills to further that. I am working on expanding my skills in web and full-stack development. I am also particularly interested in UI/UX design. 
 
 ---
 ## 🖥️ Technologies & Tools
@@ -26,7 +26,7 @@ Hi, I’m Melanie, and I’m currently a second-year Computer Science and Design
 
 ---
 ## 🗒️ Notable Projects
-* **NU Canvas:** Creating a responsive front-end replica of Northeastern's Canvas website using **HTML, CSS, JavaScript/TypeScript, React/Redux, JSON** and Vercel for deployment
+* **NU Canvas:** Creating a responsive front-end replica of Northeastern's Canvas website using **HTML, CSS, JavaScript/TypeScript, React/Redux, MongoDB** and Vercel for deployment
 * **Splunk Spoofing:** Used **HTML, CSS, & JavaScript** to create a front-end replica of Splunk
 * **Calendar Manager Application:** Created a calendar using Object-Oriented Programming, MVC architecture, and the **Swing** library
 
